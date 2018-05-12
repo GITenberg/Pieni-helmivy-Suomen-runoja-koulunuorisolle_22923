@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25601'
     url: http://www.gutenberg.org/2009/agents/25601
 description: 'Images of a slightly earlier edition (1895) are available here: http://s1.doria.fi/helmi/bk/1800/fem970242/index.html'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22923#Pieni-helmivy-Suomen-runoja-koulunuorisolle
 gutenberg_issued: '2007-10-08'
 gutenberg_type: Text
 identifiers:
